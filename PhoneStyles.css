@@ -1,0 +1,18 @@
+.header2 {
+	height: 60px;
+}
+.footer1 {
+	height: 90px;
+}
+.count {
+	max-height: calc(100vh-150px);
+}
+.content1 {
+	padding-right: 0px;
+	width: 100%; 
+	margin-bottom: 10px;
+}
+.content2 {
+	padding-left: 0px;
+	width: 100%;
+}

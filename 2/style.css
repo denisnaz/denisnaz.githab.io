@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header{
+	background: #FFE4E1;
+	width: 100%;
+}
+.custom-btn{
+	color: #fff; /* цвет текста */
+	text-decoration: none; /* убирать подчёркивание у ссылок */
+	user-select: none; /* убирать выделение текста */
+	background: rgb(212,75,56); /* фон кнопки */
+	padding: .7em 1.5em; /* отступ от текста */
+	outline: none; /* убирать контур в Mozilla */
+}

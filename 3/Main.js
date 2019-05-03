@@ -32,7 +32,7 @@ function generateHtml() {
   	}
 
   	var download = document.createElement("button");
-  	download.innerHTML = "Download";
+  	download.innerHTML = "Download";ы
   	download.style.margin = "7px";
   	download.style.background = "red";
   	download.style.color = "white";
